@@ -1,0 +1,34 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+
+// PIO Unified Debugger
+//
+// Documentation: https://docs.platformio.org/page/plus/debugging.html
+// Configuration: https://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "/Users/lucakleinschmidt/Documents/GitHub/Lego-Train/Arduino Client IR and Trackswitch/.pio/build/nanoatmega328new/firmware.elf",
+            "projectEnvName": "nanoatmega328new",
+            "toolchainBinDir": "/Users/lucakleinschmidt/.platformio/packages/toolchain-atmelavr/bin",
+            "preLaunchTask": {
+                "type": "PlatformIO",
+                "task": "Pre-Debug (nanoatmega328new)"
+            },
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (skip Pre-Debug)",
+            "executable": "/Users/lucakleinschmidt/Documents/GitHub/Lego-Train/Arduino Client IR and Trackswitch/.pio/build/nanoatmega328new/firmware.elf",
+            "projectEnvName": "nanoatmega328new",
+            "toolchainBinDir": "/Users/lucakleinschmidt/.platformio/packages/toolchain-atmelavr/bin",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}
