@@ -8,9 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/lucakleinschmidt/Documents/GitHub/Lego-Train/Arduino Client IR and Trackswitch/include",
-                "/Users/lucakleinschmidt/Documents/GitHub/Lego-Train/Arduino Client IR and Trackswitch/src",
-                "/Users/lucakleinschmidt/Documents/GitHub/Lego-Train/Arduino Client IR and Trackswitch/.pio/libdeps/nanoatmega328new/Servo/src",
+                "/Users/lucakleinschmidt/Documents/GitHub/track38-clients/arduino-powerfunctions-switch/include",
+                "/Users/lucakleinschmidt/Documents/GitHub/track38-clients/arduino-powerfunctions-switch/src",
+                "/Users/lucakleinschmidt/Documents/GitHub/track38-clients/arduino-powerfunctions-switch/.pio/libdeps/nanoatmega328new/Servo/src",
                 "/Users/lucakleinschmidt/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/Users/lucakleinschmidt/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                 "/Users/lucakleinschmidt/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -24,9 +24,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/lucakleinschmidt/Documents/GitHub/Lego-Train/Arduino Client IR and Trackswitch/include",
-                    "/Users/lucakleinschmidt/Documents/GitHub/Lego-Train/Arduino Client IR and Trackswitch/src",
-                    "/Users/lucakleinschmidt/Documents/GitHub/Lego-Train/Arduino Client IR and Trackswitch/.pio/libdeps/nanoatmega328new/Servo/src",
+                    "/Users/lucakleinschmidt/Documents/GitHub/track38-clients/arduino-powerfunctions-switch/include",
+                    "/Users/lucakleinschmidt/Documents/GitHub/track38-clients/arduino-powerfunctions-switch/src",
+                    "/Users/lucakleinschmidt/Documents/GitHub/track38-clients/arduino-powerfunctions-switch/.pio/libdeps/nanoatmega328new/Servo/src",
                     "/Users/lucakleinschmidt/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/Users/lucakleinschmidt/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                     "/Users/lucakleinschmidt/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
